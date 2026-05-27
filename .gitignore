@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Java
+target/
+*.class
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# logs
+*.log
+
+# env
+.env
+
+# Maven
+.mvn/
+
+# Docker temp
+docker-data/
